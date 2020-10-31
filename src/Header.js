@@ -7,7 +7,7 @@ function Header() {
                 src={require("./img/Trollface.png")}
                 alt='Trollface'
             />
-            <p>Meme Generator</p>
+            <p>Meme Generato</p>
         </header>
     )
 }
