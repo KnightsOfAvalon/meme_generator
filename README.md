@@ -1,3 +1,4 @@
+I created this project while following [this tutorial](https://www.youtube.com/watch?v=PkZNo7MFNFg&ab_channel=freeCodeCamp.org).
 
 You can view this project in your webpage by following [this link](https://knightsofavalon.github.io/meme_generator/).
 
